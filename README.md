@@ -53,3 +53,6 @@ starter/
 1. Clone the repository:  
    ```bash
    git clone https://github.com/NikolaDackovic/forkify.git
+
+
+   https://forkify-dackovic.netlify.app/
